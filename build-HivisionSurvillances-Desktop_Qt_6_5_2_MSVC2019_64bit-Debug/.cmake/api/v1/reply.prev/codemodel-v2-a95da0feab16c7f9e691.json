@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-95f86f87028afee3278c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HivisionSurvillances",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HivisionSurvillances::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HivisionSurvillances-Debug-3db3ecd640a687c6db8f.json",
+					"name" : "HivisionSurvillances",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HivisionSurvillances_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HivisionSurvillances_autogen-Debug-093f46ade0ef8390a5ae.json",
+					"name" : "HivisionSurvillances_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HivisionSurvillances_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HivisionSurvillances_autogen_timestamp_deps-Debug-bded355a7ba519c96d46.json",
+					"name" : "HivisionSurvillances_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug",
+		"source" : "C:/QTProjects/HivisionSurvillances"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

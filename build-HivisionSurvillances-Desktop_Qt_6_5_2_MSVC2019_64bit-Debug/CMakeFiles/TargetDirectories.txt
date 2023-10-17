@@ -1,0 +1,8 @@
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/HivisionSurvillances.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/HivisionSurvillances_autogen_timestamp_deps.dir
+C:/QTProjects/build-HivisionSurvillances-Desktop_Qt_6_5_2_MSVC2019_64bit-Debug/CMakeFiles/HivisionSurvillances_autogen.dir
